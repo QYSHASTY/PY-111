@@ -20,6 +20,8 @@ class BinarySearchTree:
         :return: None
         """
         print(key, value)
+
+
         return None
 
     def remove(self, key: int) -> Optional[Tuple[int, Any]]:
